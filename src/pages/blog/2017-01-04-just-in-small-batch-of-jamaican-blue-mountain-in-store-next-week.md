@@ -4,7 +4,7 @@ title: Introduction
 date: 2017-01-04T15:04:10.000Z
 description: >-
   The Wiki is intended to be the first go-to resource during the process of
-  onboarding as well as during the term of your contract with Anexus.
+  onboarding as well as during the term of your contract with WeKnow.
 tags:
   - jamaica
   - green beans
